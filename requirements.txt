@@ -1,0 +1,5 @@
+langchain
+ipykernel
+python-dotenv
+tensorflow
+matplotlib
