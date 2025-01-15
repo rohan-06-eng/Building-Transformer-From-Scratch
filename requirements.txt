@@ -3,3 +3,6 @@ ipykernel
 python-dotenv
 tensorflow
 matplotlib
+bs4
+requests
+tqdm
